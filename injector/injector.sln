@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "injector", "injector\injector.csproj", "{300C15EC-C1A2-41DC-B41D-960F29471FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Debug|x64.ActiveCfg = Debug|x64
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Debug|x64.Build.0 = Debug|x64
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Release|x64.ActiveCfg = Release|x64
+		{300C15EC-C1A2-41DC-B41D-960F29471FF5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D6BB741-FF44-4BCA-ABB3-E39B20D0E7FD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyHook32.dll
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyHook32Svc.exe
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyHook64.dll
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyHook64Svc.exe
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyLoad32.dll
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyLoad64.dll
+C:\Users\hathh\Downloads\test\test\bin\Release\test.dll
+C:\Users\hathh\Downloads\test\test\bin\Release\test.pdb
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyHook.dll
+C:\Users\hathh\Downloads\test\test\bin\Release\EasyHook.xml
+C:\Users\hathh\Downloads\test\test\obj\Release\test.csproj.AssemblyReference.cache
+C:\Users\hathh\Downloads\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+C:\Users\hathh\Downloads\test\test\obj\Release\test.csproj.CopyComplete
+C:\Users\hathh\Downloads\test\test\obj\Release\test.dll
+C:\Users\hathh\Downloads\test\test\obj\Release\test.pdb
